@@ -26,14 +26,18 @@ We hope to do such a good job that many of our customers become fans of us and w
 **№1:**
 
 To do this effectively, we need to understand the customers.
-To do this we need to understand the industries, cultures, and environments which the customers are embedded in, on an ongoing basis, updating our understanding as we gain new information and things change.
-To do this we need to share this understanding.
+To do this we need to understand the industries, cultures, and environments which the customers are embedded in.
+And we need to do this on an ongoing basis, updating our understanding as we gain new information and as things change.
+
+We need to share this understanding across the company.
+(And even share at least some of this understanding publicly.)
 To do this effectively we need to share this understanding in a format that makes accurately communicating it easier.
 
 **№2:**
 
 To do this effectively, we need feedback and other communications from the customer to be shared across the company (in a privacy repecting way).
 Everyone in the company should _feel-the-pain_ (and feel-the-joy) of the customer.
+
 If enough customers have the same pain, we should conisder addressing it a product & services level.
 
 ---
@@ -41,8 +45,6 @@ If enough customers have the same pain, we should conisder addressing it a produ
 ## Privacy
 
 We care about privacy.
-
-
 
 ---
 
