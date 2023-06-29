@@ -42,6 +42,8 @@ If enough customers have the same pain, we should conisder addressing it a produ
 
 We care about privacy.
 
+
+
 ---
 
 ## Fediverse
@@ -91,11 +93,13 @@ Whomever would have gotten credit for something succeeding is the same person wh
 Humans are political creatures.
 Politics are normal.
 
-But your politics may _not_ be shared with others.
+But your politics may _not_ be (and likely isn't) shared with all others.
 
-It doesn't matter whether you call your _politics_ "morals", "ideology", "ethics", or "politics".
+It doesn't matter whether you call your _politics_ "morals", "ideology", "ethics", "politics", or whatever.
 It is all still _politics_ as far as this is concerned.
 
 If you discover that someone is _not_ receptive to your politics, stop sharing it with them.
 
 Don't make the workplace unnecessarily political.
+
+People should be able to work and do their job without being exposed to politics they aren't receptive to.
