@@ -1,11 +1,31 @@
 # SᴘᴀᴄᴇHᴏsᴛ values
 
-* We care about the customers
+* [We care about the customers](#customers)
 
-* We care about privacy
+* [We care about privacy](#privacy)
 
-* We care about the Fediverse
+* [We care about the Fediverse](#fediverse)
 
-* We care about effectiveness
+* [We care about effectiveness](#effectiveness)
 
-* We care about reliability
+* [We care about reliability](#reliability)
+
+---
+
+## Customers
+
+---
+
+## Privacy
+
+---
+
+## Fediverse
+
+---
+
+## Effectiveness
+
+---
+
+## Reliability
