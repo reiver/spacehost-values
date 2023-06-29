@@ -91,6 +91,9 @@ If tasks have priorities associated with them, then do them in priority order.
 
 We care about reliability.
 
+You need to be reliable.
+You need to be dependable.
+
 ---
 
 ## Accountability
