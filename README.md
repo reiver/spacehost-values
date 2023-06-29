@@ -86,7 +86,7 @@ Making decisions makes you accountable.
 Certain roles are required to always be accountable for certain things.
 Even if these roles delegate or defer to others, they are still accountable for anything done by whomever they delegated or deferred to.
 
-Whomever would have gotten credit for something succeeding is the same person who gets blamed for its failure.
+Whomever would have gotten credit for something succeeding is who gets blamed for its failure.
 
 ---
 
