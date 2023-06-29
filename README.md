@@ -50,3 +50,8 @@ We care about reliability.
 ## Accountability
 
 We care about accountability.
+
+Making decisions makes you accountable.
+
+Certain roles are required to always be accountable.
+Even if these roles delegate or defer to others, they are still accountable for anything done by whomever they delegated or deferred to.
