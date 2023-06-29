@@ -18,6 +18,8 @@
 
 ## Privacy
 
+We care about privacy.
+
 ---
 
 ## Fediverse
