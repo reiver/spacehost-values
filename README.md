@@ -22,6 +22,13 @@
 
 ## Fediverse
 
+We care about the Fediverse.
+
+For the Fedivetse to last in the long-term it must be economically viable for those who make it exist — the people who create the software, the people who operate the servers, etc.
+
+We will do what we can to support them.
+Including supporting them financially.
+
 ---
 
 ## Effectiveness
@@ -29,3 +36,6 @@
 ---
 
 ## Reliability
+
+---
+
