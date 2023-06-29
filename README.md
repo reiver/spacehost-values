@@ -1,6 +1,6 @@
 # SᴘᴀᴄᴇHᴏsᴛ values
 
-* [We care about the customers](#customers)
+* [We care about customers](#customers)
 
 * [We care about privacy](#privacy)
 
@@ -18,7 +18,23 @@
 
 ## Customers
 
-We care about the customer.
+We care about customers.
+
+We want to do things within reason to try to make the customer satisfied with our products and services, while at the same time not making other customers unsatisfied.
+We hope to do such a good job that many of our customers become fans of us and what we do.
+
+**№1:**
+
+To do this effectively, we need to understand the customers.
+To do this we need to understand the industries, cultures, and environments which the customers are embedded in, on an ongoing basis, updating our understanding as we gain new information and things change.
+To do this we need to share this understanding.
+To do this effectively we need to share this understanding in a format that makes accurately communicating it easier.
+
+**№2:**
+
+To do this effectively, we need feedback and other communications from the customer to be shared across the company (in a privacy repecting way).
+Everyone in the company should _feel-the-pain_ (and feel-the-joy) of the customer.
+If enough customers have the same pain, we should conisder addressing it a product & services level.
 
 ---
 
