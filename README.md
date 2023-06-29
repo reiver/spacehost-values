@@ -47,6 +47,8 @@ Get stuff done.
 
 Don't let the perfect be the enemy of the good.
 
+If items have priorities associateed with them, then do them in priority order.
+
 ---
 
 ## Reliability
