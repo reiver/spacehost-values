@@ -4,6 +4,8 @@
 
 * [We care about privacy](#privacy)
 
+* [We care about decentralization](#decentralization)
+
 * [We care about the Fediverse](#fediverse)
 
 * [We care about effectiveness](#effectiveness)
@@ -46,11 +48,25 @@ If enough customers have the same pain, we should conisder addressing it a produ
 
 We care about privacy.
 
+We will do what we can reasonably do to provide our customers with tools which they can use to protect their privacy for conditions when they want privacy.
+
+---
+
+## Decentralization
+
+We care about decentralization — as a means to an end.
+
+We believe that decentralization will help make the world _less-worse_ if not _better_ for most people.
+
+We will do what we can reasonably do to help decentralized networks, including social-media networks, exist for those who want them.
+
 ---
 
 ## Fediverse
 
 We care about the Fediverse.
+
+We believe that the Fediverse is currently one of the best efforts towards decentralization.
 
 For the Fediverse to last in the long-term it must be economically viable for those who make it exist — the people who create the software, the people who operate the servers, etc.
 
