@@ -80,4 +80,4 @@ It is all still _politics_ as far as this is concerned.
 
 If you discover that someone is _not_ receptive to your politics, stop sharing it with them.
 
-Don't make the workplace unnessarily political.
+Don't make the workplace unnecessarily political.
