@@ -35,9 +35,13 @@ Including supporting them financially.
 
 ## Effectiveness
 
+We care about effectiveness.
+
 ---
 
 ## Reliability
+
+We care about reliability.
 
 ---
 
