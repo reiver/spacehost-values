@@ -10,6 +10,8 @@
 
 * [We care about reliability](#reliability)
 
+* [We care about accountability](#accountability)
+
 ---
 
 ## Customers
@@ -45,3 +47,6 @@ We care about reliability.
 
 ---
 
+## Accountability
+
+We care about accountability.
