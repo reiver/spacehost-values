@@ -93,7 +93,7 @@ Whomever would have gotten credit for something succeeding is the same person wh
 Humans are political creatures.
 Politics are normal.
 
-But your politics may _not_ be (and likely isn't) shared with all others.
+But your politics may _not_ be (and likely is _not_) shared with all others.
 
 It doesn't matter whether you call your _politics_ "morals", "ideology", "ethics", "politics", or whatever.
 It is all still _politics_ as far as this is concerned.
