@@ -89,6 +89,8 @@ Don't let the perfect be the enemy of the good.
 
 If tasks have priorities associated with them, then do them in priority order.
 
+(If you think the priority order should be different, talk to the person who is responsible for setting the priority order.)
+
 ---
 
 ## Reliability
