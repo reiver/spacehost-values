@@ -23,16 +23,18 @@
 We care about customers.
 
 We want to do things within reason to try to make the customer satisfied with our products and services, while at the same time not making other customers unsatisfied.
+
 We hope to do such a good job that many of our customers become fans of us and what we do.
 
 **№1:**
 
 To do this effectively, we need to understand the customers.
 To do this we need to understand the industries, cultures, and environments which the customers are embedded in.
+
 And we need to do this on an ongoing basis, updating our understanding as we gain new information and as things change.
 
 We need to share this understanding across the company.
-(And even share at least some of this understanding publicly.)
+(And even share (at least some, if not all, of) this understanding publicly.)
 To do this effectively we need to share this understanding in a format that makes accurately communicating it easier.
 
 **№2:**
@@ -48,7 +50,9 @@ If enough customers have the same pain, we should conisder addressing it a produ
 
 We care about privacy.
 
-We will do what we can reasonably do to provide our customers with tools which they can use to protect their privacy for conditions when they want privacy.
+We will do what we can reasonably do to provide our customers with tools which they can use to protect their privacy in situations when they want privacy.
+
+We will try to set "good" defaults, but we will let the customer choose when they want and don't want privacy.
 
 ---
 
