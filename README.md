@@ -1,4 +1,4 @@
-# SᴘᴀᴄᴇHᴏsᴛ values
+# #SᴘᴀᴄᴇHᴏsᴛ values
 
 * [We care about customers](#customers)
 
